@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Administrator Page</title>
+    </head>
+    <body>
+        <h1>Administrator Page</h1>
+        <?php
+            require_once('userClass');
+			isUN = "Enter a valid username";
+			isPW = "Enter a valid pass"; 
+			$admin = new Class();
+
+        ?>
+    </body>
+</html>
